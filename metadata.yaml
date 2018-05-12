@@ -1,0 +1,48 @@
+_repo: Rip-Foster-in-Ride-the-Gray-Planet_18139
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Goodwin, Harold L. (Harold Leland)
+    aliases:
+    - Goodwin, Harold Leland
+    - Savage, Blake
+    - Goodwin, Hal
+    birthdate: 1914
+    deathdate: 1990
+    gutenberg_agent_id: '7833'
+    url: http://www.gutenberg.org/2009/agents/7833
+    wikipedia: http://en.wikipedia.org/wiki/Harold_L._Goodwin
+description: "Rip Foster Rides the Gray Planet is a young adult science fiction novel\
+  \ written by Harold L. Goodwin under the pseudonym Blake Savage. The novel was originally\
+  \ published by Whitman in hardcover in 1952 and reprinted in the United Kingdom\
+  \ later in the same year as Rip Foster Rides the Grey Planet (note the spelling\
+  \ of \"gray/grey\"). There were two subsequent American reprints under different\
+  \ titles: another hardcover edition as Assignment in Space with Rip Foster in 1958\
+  \ and a paperback edition as Rip Foster in Ride the Gray Planet, in 1969. Under\
+  \ all titles combined, there were approximately 100,000 copies of the novel printed.\
+  \ The first edition was illustrated by E. Deane Cate and the 1958 edition by Denny\
+  \ McMains. Goodwin is better known for other children's books he wrote, including\
+  \ the Rick Brant Science Adventure Series for Boys. According to Project Gutenberg\
+  \ [1], this novel is in the Public Domain in the United States.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2006-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18139'
+  wikidata: Q15033475
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PZ'
+- !lcsh 'Space flight -- Juvenile fiction'
+title: Rip Foster in Ride the Gray Planet
+url: http://www.gutenberg.org/ebooks/18139
+wikipedia:
+- https://en.wikipedia.org/wiki/Rip_Foster_Rides_the_Gray_Planet
